@@ -19,7 +19,7 @@ export function Footer() {
               </p>
               <div className="flex space-x-4">
                 {[
-                  { icon: <Github className="h-5 w-5" />, href: 'https://github.com/yourusername', label: 'GitHub' },
+                  { icon: <Github className="h-5 w-5" />, href: 'https://github.com/Gomagg', label: 'GitHub' },
                   { icon: <Linkedin className="h-5 w-5" />, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
                   { icon: <Twitter className="h-5 w-5" />, href: 'https://twitter.com/yourusername', label: 'Twitter' },
                   { icon: <Mail className="h-5 w-5" />, href: 'mailto:your.email@example.com', label: 'Email' }
