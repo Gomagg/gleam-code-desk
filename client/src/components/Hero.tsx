@@ -21,8 +21,7 @@ export function Hero() {
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in">
             <span className="block text-foreground mb-2">Hello, I'm</span>
             <span className="block text-gradient">
-              Your Full Stack Developer
-            </span>
+              Emmanuel Adeyeye            </span>
           </h1>
 
           {/* Tagline */}
